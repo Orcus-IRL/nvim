@@ -64,4 +64,3 @@ Special thanks to:
 
 For questions or feedback, please open an issue on the [GitHub repository](https://github.com/Orcus-IRL/nvim).
 
-Happy Coding!
