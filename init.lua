@@ -20,5 +20,6 @@ require("lazy").setup("plugins", {
     change_detection = {
         enabled = false,  -- <-- disable auto reload
         notify = false,   -- optional, also disables notifications
+
     },
 })
